@@ -1,0 +1,3 @@
+# System physical architecture
+
+none
